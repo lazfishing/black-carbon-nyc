@@ -3,4 +3,4 @@ Black carbon is the sooty black material emitted from gas and diesel engines, co
 
 This visualisation shows the 2018 annual average values for black carbon in New York City, designed to help us understand the spatial variation of black carbon at the community district level.
 
-Data retrieved from: [Environment & Health Data Portal](url)
+Data retrieved from: [Environment & Health Data Portal](http://a816-dohbesp.nyc.gov/IndicatorPublic/VisualizationData.aspx?id=2024,719b87,122,Summarize) & [The New York City Community Air Survey](https://nyc-ehs.net/besp-report/web/nyccas)
