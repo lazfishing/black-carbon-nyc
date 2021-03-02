@@ -13,7 +13,7 @@ map.scrollZoom.disable();
 map.on('style.load',function() {
   map.addSource('black-carbon', {
       type: 'geojson',
-      data: '/data/black-carbon.geojson'
+      data: 'data/black-carbon.geojson'
   });
 
   map.addLayer({
